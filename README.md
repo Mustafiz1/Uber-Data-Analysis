@@ -25,3 +25,6 @@ Q19. Plot a bar graph of Purposes vs Distance.
 Q20. Print a dataframe of Purposes and the distance travelled for that particular Purpose.
 Q21. Plot number of trips vs Category of trips.
 Q22. What is proportion of trips that is Business and what is the proportion of trips that is Personal?
+
+
+This is the required project.
